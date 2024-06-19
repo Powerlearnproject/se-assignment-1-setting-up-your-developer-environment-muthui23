@@ -1,0 +1,51 @@
+1. Select Your Operating System (OS)
+Download and Install Windows 11:
+Ensure your PC meets the minimum system requirements for Windows 11.
+Before installing a new OS, it’s crucial to backup your important files and data.
+Visit the official Microsoft Windows 11 download page: Windows 11 Download
+Once your PC is ready, the assistant will start the installation process
+Set Up Your Account:
+Follow the prompts to set up your Microsoft account or create a new one if you don’t have one.
+
+ 2. Install a Text Editor or Integrated Development Environment (IDE)
+Visit the Visual Studio Code download page: VS Code Download
+Run the Installer
+Install Visual Studio Code
+After installation is complete, launch Visual Studio Code.
+Customize the editor to suit your needs by installing extensions.
+Choose a theme that you find visually comfortable from File > Preferences > Color Theme or by pressing Ctrl+K Ctrl+T.
+
+3. Set Up Version Control System
+I visited the Git website: Git Download
+Follow the installation prompts
+Configure Git....pictorial in screenshot file.
+Create a GitHub Account for Hosting Your Repositories
+Initialize a Git Repository for Your Project and Make Your First Commit.
+refer to  screenshot folder.
+
+4.Install python
+Visit the Python website: Python Download.
+Choose the latest version suitable for your operating system
+Click on "Install Now" and follow the insta
+llation prompts
+Verify Installation :screenshot.
+
+5.Installing my MySQL
+First I downloaded and installed it.
+I chose my setup option as You will see various setup options such as Developer Default.
+Once all requirements are met, click "Next" to begin the installation of MySQL.
+Click "Execute" to start the installation process. This may take a few minutes.
+I configured mySQL by choosing the Standalone MySQL Server.
+I chose the "Use Strong Password Encryption (RECOMMENDED)" option and set my Password.
+
+I also installed SQLite viewer extension in my vs code.
+
+6.Explore Extensions and Plugins:refer to screenshots file.
+
+Problems I encountered:
+My laptop was not able to install windows 11 since it is an old one.
+I encountered errors when initializing my repository.
+I  Double-checked the commands for typos and used git status to check my repository's status.
+I was not aware of the git commands so i was confusing some but I used AI to ask for the ones I did not know.
+Configuring MySQL was also not easy but I conquered.
+
